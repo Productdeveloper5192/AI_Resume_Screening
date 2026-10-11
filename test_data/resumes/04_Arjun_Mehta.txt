@@ -1,0 +1,20 @@
+Arjun Mehta
+Aspiring Data Scientist | Delhi | arjun.mehta@example.com
+
+SUMMARY
+Recent graduate passionate about machine learning, looking for my first full-time role.
+
+EXPERIENCE
+Data Science Intern, small startup (Jan 2025 - Dec 2025)
+- Cleaned datasets in Python (Pandas) and built a logistic-regression model in a Jupyter notebook.
+- Wrote basic SQL queries for reports.
+
+PROJECTS
+- Titanic survival prediction (Kaggle), movie recommender (course project).
+- Completed AWS Cloud Practitioner course (not certified).
+
+SKILLS
+Python, Pandas, NumPy, scikit-learn, SQL (basic), Matplotlib
+
+EDUCATION
+B.Tech Computer Science - Delhi Technological University, 2025

@@ -1,0 +1,20 @@
+{
+  "Senior Data scientist": {
+    "role_title": "",
+    "must_have": "",
+    "nice_to_have": "",
+    "min_years": 0,
+    "education": "",
+    "other": "",
+    "job_description": ""
+  },
+  "Data Scientist (Test)": {
+    "role_title": "Data Scientist",
+    "must_have": "Python, SQL, Machine Learning, AWS",
+    "nice_to_have": "PyTorch, Docker, LLMs / Generative AI",
+    "min_years": 3,
+    "education": "Bachelor's degree in Computer Science, Statistics, Mathematics or related field",
+    "other": "Must have deployed at least one ML model to production.",
+    "job_description": "We are hiring a Data Scientist to build and deploy machine learning models for customer analytics (churn, recommendations, forecasting). You will own models end to end: data extraction with SQL, feature engineering and modelling in Python, and deployment on AWS. Experience with deep learning (PyTorch), containerisation (Docker) and LLM-based features is a plus."
+  }
+}
